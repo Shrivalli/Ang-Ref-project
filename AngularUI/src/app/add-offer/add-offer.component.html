@@ -1,0 +1,72 @@
+<div class="container">
+    <div class="alert alert-danger" *ngIf="pageError!=''">{{pageError}}</div>
+    <div class="offer-details-content">
+        <h1>Post an Offer</h1><br>
+        <form [formGroup]="addOfferForm" (ngSubmit)="onSubmit()">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Properties</th>
+                        <th>Value</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Offer Id</td>
+                        <td>
+                            <input type="textbox" rows="2" formControlName="offerId" [(ngModel)]="offer.offerId" class="form-control">
+                           
+                        </td>
+                    </tr>
+                    
+                    
+                    <tr>
+                        <td>Details</td>
+                        <td>
+                            <input type="textbox" rows="2" formControlName="details" [(ngModel)]="offer.details" class="form-control">
+                            <!-- error checking for description-->
+                            <div *ngIf="details?.invalid && (details?.dirty || details?.touched)" class="alert alert-danger">
+
+                                <div *ngIf="details?.errors?.required">
+                                    Description is required.
+                                </div>
+
+                                <div *ngIf="details?.errors?.minlength">
+                                    Description must be at least 10 characters long.
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Category</td>
+                        <td>
+                            <select class="form-control" formControlName="category" [(ngModel)]="offer.category">
+                                <option>Electronics</option>
+                                <option>Plants</option>
+				                <option>Furniture</option>
+				                <option>Accessories</option>
+                                <option>Pets</option>
+                                <option>Books</option>
+
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Status</td>
+                        <td>
+                            <select class="form-control" formControlName="status" [(ngModel)]="offer.status">
+                                <option>Available</option>
+                                <option>Engaged</option>
+				                <option>Closed</option>
+				               
+                            </select>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <button class="btn btn-outline-primary" [disabled]="!addOfferForm.valid"> Submit</button> &nbsp; &nbsp;
+            <a class="btn btn-dark" routerLink="/main">Go back</a>
+        </form>
+
+    </div>
+</div>

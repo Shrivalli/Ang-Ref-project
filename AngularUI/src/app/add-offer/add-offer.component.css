@@ -1,0 +1,11 @@
+.offer-details-content {
+    margin-top: 2%;
+}
+
+.offer-details-content>h1 {
+    font-weight: 100;
+}
+.btn-outline-primary{
+    background-color:#4682B4 !important; 
+    color: white;
+}

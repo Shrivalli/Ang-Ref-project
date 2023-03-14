@@ -1,0 +1,42 @@
+.login-content {
+    width: 40%;
+    margin: 5% 30%;
+    padding: 50px 40px;
+    color: white;
+    background-image: url("src\asset\image2.jfif ") !important;
+    background-repeat: no-repeat;
+    background-size: cover;      
+    border-radius: 5%;
+}
+
+.login-content>h1 {
+    margin-bottom: 50px;
+}
+label{
+    font-weight: bold;
+}
+.login-content>form>input {
+    margin-bottom: 20px;
+}
+
+.login-content>form>label {
+    font-size: 17px;
+    margin-bottom: 2px;
+}
+
+.login-content>form>button {
+    margin-top: 20px;
+    padding: 10px 20px;
+}
+
+.alert.alert-danger {
+    padding: 10px;
+}
+
+button {
+     background:#0047AB  !important; 
+     color: white !important;
+}
+button:hover{
+    opacity: 50%;
+}

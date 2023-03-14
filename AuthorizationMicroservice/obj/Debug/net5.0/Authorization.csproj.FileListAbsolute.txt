@@ -1,0 +1,421 @@
+C:\Users\Hp\Desktop\MFPE\CorporateClassifieds-main\CorporateClassifieds-main\Mfrp_CorporateClassifieds-Initial\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Hp\Desktop\MFPE\CorporateClassifieds-main\CorporateClassifieds-main\Mfrp_CorporateClassifieds-Initial\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\Hp\Desktop\MFPE\CorporateClassifieds-main\CorporateClassifieds-main\Mfrp_CorporateClassifieds-Initial\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.exe
+C:\Users\Hp\Desktop\MFPE\CorporateClassifieds-main\CorporateClassifieds-main\Mfrp_CorporateClassifieds-Initial\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.deps.json
+C:\Users\Hp\Desktop\MFPE\CorporateClassifieds-main\CorporateClassifieds-main\Mfrp_CorporateClassifieds-Initial\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.runtimeconfig.json
+C:\Users\Hp\Desktop\MFPE\CorporateClassifieds-main\CorporateClassifieds-main\Mfrp_CorporateClassifieds-Initial\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\MFPE\CorporateClassifieds-main\CorporateClassifieds-main\Mfrp_CorporateClassifieds-Initial\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.dll
+C:\Users\Hp\Desktop\MFPE\CorporateClassifieds-main\CorporateClassifieds-main\Mfrp_CorporateClassifieds-Initial\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.pdb
+C:\Users\Hp\Desktop\MFPE\CorporateClassifieds-main\CorporateClassifieds-main\Mfrp_CorporateClassifieds-Initial\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Hp\Desktop\MFPE\CorporateClassifieds-main\CorporateClassifieds-main\Mfrp_CorporateClassifieds-Initial\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hp\Desktop\MFPE\CorporateClassifieds-main\CorporateClassifieds-main\Mfrp_CorporateClassifieds-Initial\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hp\Desktop\MFPE\CorporateClassifieds-main\CorporateClassifieds-main\Mfrp_CorporateClassifieds-Initial\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hp\Desktop\MFPE\CorporateClassifieds-main\CorporateClassifieds-main\Mfrp_CorporateClassifieds-Initial\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hp\Desktop\MFPE\CorporateClassifieds-main\CorporateClassifieds-main\Mfrp_CorporateClassifieds-Initial\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hp\Desktop\MFPE\CorporateClassifieds-main\CorporateClassifieds-main\Mfrp_CorporateClassifieds-Initial\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Hp\Desktop\MFPE\CorporateClassifieds-main\CorporateClassifieds-main\Mfrp_CorporateClassifieds-Initial\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hp\Desktop\MFPE\CorporateClassifieds-main\CorporateClassifieds-main\Mfrp_CorporateClassifieds-Initial\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hp\Desktop\MFPE\CorporateClassifieds-main\CorporateClassifieds-main\Mfrp_CorporateClassifieds-Initial\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hp\Desktop\MFPE\CorporateClassifieds-main\CorporateClassifieds-main\Mfrp_CorporateClassifieds-Initial\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hp\Desktop\MFPE\CorporateClassifieds-main\CorporateClassifieds-main\Mfrp_CorporateClassifieds-Initial\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\MFPE\CorporateClassifieds-main\CorporateClassifieds-main\Mfrp_CorporateClassifieds-Initial\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\MFPE\CorporateClassifieds-main\CorporateClassifieds-main\Mfrp_CorporateClassifieds-Initial\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\MFPE\CorporateClassifieds-main\CorporateClassifieds-main\Mfrp_CorporateClassifieds-Initial\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.AssemblyInfo.cs
+C:\Users\Hp\Desktop\MFPE\CorporateClassifieds-main\CorporateClassifieds-main\Mfrp_CorporateClassifieds-Initial\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\MFPE\CorporateClassifieds-main\CorporateClassifieds-main\Mfrp_CorporateClassifieds-Initial\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hp\Desktop\MFPE\CorporateClassifieds-main\CorporateClassifieds-main\Mfrp_CorporateClassifieds-Initial\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp\Desktop\MFPE\CorporateClassifieds-main\CorporateClassifieds-main\Mfrp_CorporateClassifieds-Initial\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\scopedcss\bundle\Authorization.styles.css
+C:\Users\Hp\Desktop\MFPE\CorporateClassifieds-main\CorporateClassifieds-main\Mfrp_CorporateClassifieds-Initial\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\Authorization.StaticWebAssets.Manifest.cache
+C:\Users\Hp\Desktop\MFPE\CorporateClassifieds-main\CorporateClassifieds-main\Mfrp_CorporateClassifieds-Initial\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.RazorTargetAssemblyInfo.cache
+C:\Users\Hp\Desktop\MFPE\CorporateClassifieds-main\CorporateClassifieds-main\Mfrp_CorporateClassifieds-Initial\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.csproj.CopyComplete
+C:\Users\Hp\Desktop\MFPE\CorporateClassifieds-main\CorporateClassifieds-main\Mfrp_CorporateClassifieds-Initial\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.dll
+C:\Users\Hp\Desktop\MFPE\CorporateClassifieds-main\CorporateClassifieds-main\Mfrp_CorporateClassifieds-Initial\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\refint\Authorization.dll
+C:\Users\Hp\Desktop\MFPE\CorporateClassifieds-main\CorporateClassifieds-main\Mfrp_CorporateClassifieds-Initial\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.pdb
+C:\Users\Hp\Desktop\MFPE\CorporateClassifieds-main\CorporateClassifieds-main\Mfrp_CorporateClassifieds-Initial\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.genruntimeconfig.cache
+C:\Users\Hp\Desktop\MFPE\CorporateClassifieds-main\CorporateClassifieds-main\Mfrp_CorporateClassifieds-Initial\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\ref\Authorization.dll
+C:\Users\Hp\Desktop\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Hp\Desktop\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\Hp\Desktop\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.exe
+C:\Users\Hp\Desktop\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.deps.json
+C:\Users\Hp\Desktop\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.runtimeconfig.json
+C:\Users\Hp\Desktop\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.dll
+C:\Users\Hp\Desktop\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.pdb
+C:\Users\Hp\Desktop\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Hp\Desktop\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hp\Desktop\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hp\Desktop\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hp\Desktop\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hp\Desktop\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hp\Desktop\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Hp\Desktop\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hp\Desktop\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hp\Desktop\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hp\Desktop\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hp\Desktop\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.AssemblyInfo.cs
+C:\Users\Hp\Desktop\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hp\Desktop\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp\Desktop\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\scopedcss\bundle\Authorization.styles.css
+C:\Users\Hp\Desktop\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\Authorization.StaticWebAssets.Manifest.cache
+C:\Users\Hp\Desktop\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.RazorTargetAssemblyInfo.cache
+C:\Users\Hp\Desktop\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.csproj.CopyComplete
+C:\Users\Hp\Desktop\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.dll
+C:\Users\Hp\Desktop\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\refint\Authorization.dll
+C:\Users\Hp\Desktop\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.pdb
+C:\Users\Hp\Desktop\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.genruntimeconfig.cache
+C:\Users\Hp\Desktop\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\ref\Authorization.dll
+C:\Users\gagan\Downloads\AngularUI\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\gagan\Downloads\AngularUI\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\gagan\Downloads\AngularUI\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.exe
+C:\Users\gagan\Downloads\AngularUI\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.deps.json
+C:\Users\gagan\Downloads\AngularUI\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.runtimeconfig.json
+C:\Users\gagan\Downloads\AngularUI\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.runtimeconfig.dev.json
+C:\Users\gagan\Downloads\AngularUI\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.dll
+C:\Users\gagan\Downloads\AngularUI\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.pdb
+C:\Users\gagan\Downloads\AngularUI\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\gagan\Downloads\AngularUI\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gagan\Downloads\AngularUI\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gagan\Downloads\AngularUI\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gagan\Downloads\AngularUI\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gagan\Downloads\AngularUI\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gagan\Downloads\AngularUI\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\gagan\Downloads\AngularUI\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gagan\Downloads\AngularUI\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gagan\Downloads\AngularUI\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gagan\Downloads\AngularUI\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gagan\Downloads\AngularUI\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.csproj.AssemblyReference.cache
+C:\Users\gagan\Downloads\AngularUI\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gagan\Downloads\AngularUI\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.AssemblyInfoInputs.cache
+C:\Users\gagan\Downloads\AngularUI\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.AssemblyInfo.cs
+C:\Users\gagan\Downloads\AngularUI\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\gagan\Downloads\AngularUI\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gagan\Downloads\AngularUI\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gagan\Downloads\AngularUI\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\scopedcss\bundle\Authorization.styles.css
+C:\Users\gagan\Downloads\AngularUI\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\Authorization.StaticWebAssets.Manifest.cache
+C:\Users\gagan\Downloads\AngularUI\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.RazorTargetAssemblyInfo.cache
+C:\Users\gagan\Downloads\AngularUI\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.csproj.CopyComplete
+C:\Users\gagan\Downloads\AngularUI\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.dll
+C:\Users\gagan\Downloads\AngularUI\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\refint\Authorization.dll
+C:\Users\gagan\Downloads\AngularUI\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.pdb
+C:\Users\gagan\Downloads\AngularUI\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.genruntimeconfig.cache
+C:\Users\gagan\Downloads\AngularUI\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\ref\Authorization.dll
+D:\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+D:\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.json
+D:\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.exe
+D:\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.deps.json
+D:\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.runtimeconfig.json
+D:\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.runtimeconfig.dev.json
+D:\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.dll
+D:\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.pdb
+D:\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.csproj.AssemblyReference.cache
+D:\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.GeneratedMSBuildEditorConfig.editorconfig
+D:\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.AssemblyInfoInputs.cache
+D:\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.AssemblyInfo.cs
+D:\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.csproj.CoreCompileInputs.cache
+D:\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.MvcApplicationPartsAssemblyInfo.cs
+D:\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.MvcApplicationPartsAssemblyInfo.cache
+D:\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\scopedcss\bundle\Authorization.styles.css
+D:\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\Authorization.StaticWebAssets.Manifest.cache
+D:\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.RazorTargetAssemblyInfo.cache
+D:\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.csproj.CopyComplete
+D:\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.dll
+D:\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\refint\Authorization.dll
+D:\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.pdb
+D:\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.genruntimeconfig.cache
+D:\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\ref\Authorization.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.exe
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.deps.json
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.runtimeconfig.json
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.runtimeconfig.dev.json
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.pdb
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.csproj.AssemblyReference.cache
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.AssemblyInfoInputs.cache
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.AssemblyInfo.cs
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\scopedcss\bundle\Authorization.styles.css
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\Authorization.StaticWebAssets.Manifest.cache
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.RazorTargetAssemblyInfo.cache
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.csproj.CopyComplete
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\refint\Authorization.dll
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.pdb
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.genruntimeconfig.cache
+C:\Users\gagan\Downloads\mfpe\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\ref\Authorization.dll
+D:\MFPE-Final\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+D:\MFPE-Final\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.json
+D:\MFPE-Final\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.exe
+D:\MFPE-Final\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.deps.json
+D:\MFPE-Final\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.runtimeconfig.json
+D:\MFPE-Final\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.runtimeconfig.dev.json
+D:\MFPE-Final\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.dll
+D:\MFPE-Final\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.pdb
+D:\MFPE-Final\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\MFPE-Final\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MFPE-Final\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\MFPE-Final\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\MFPE-Final\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MFPE-Final\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\MFPE-Final\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\MFPE-Final\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MFPE-Final\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MFPE-Final\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MFPE-Final\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MFPE-Final\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.csproj.AssemblyReference.cache
+D:\MFPE-Final\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.GeneratedMSBuildEditorConfig.editorconfig
+D:\MFPE-Final\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.AssemblyInfoInputs.cache
+D:\MFPE-Final\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.AssemblyInfo.cs
+D:\MFPE-Final\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.csproj.CoreCompileInputs.cache
+D:\MFPE-Final\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.MvcApplicationPartsAssemblyInfo.cs
+D:\MFPE-Final\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.MvcApplicationPartsAssemblyInfo.cache
+D:\MFPE-Final\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\scopedcss\bundle\Authorization.styles.css
+D:\MFPE-Final\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\Authorization.StaticWebAssets.Manifest.cache
+D:\MFPE-Final\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.RazorTargetAssemblyInfo.cache
+D:\MFPE-Final\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.csproj.CopyComplete
+D:\MFPE-Final\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.dll
+D:\MFPE-Final\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\refint\Authorization.dll
+D:\MFPE-Final\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.pdb
+D:\MFPE-Final\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.genruntimeconfig.cache
+D:\MFPE-Final\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\ref\Authorization.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.exe
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.deps.json
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.runtimeconfig.json
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.runtimeconfig.dev.json
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.pdb
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.csproj.AssemblyReference.cache
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.AssemblyInfoInputs.cache
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.AssemblyInfo.cs
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\scopedcss\bundle\Authorization.styles.css
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\Authorization.StaticWebAssets.Manifest.cache
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.RazorTargetAssemblyInfo.cache
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.csproj.CopyComplete
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\refint\Authorization.dll
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.pdb
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.genruntimeconfig.cache
+C:\Users\dokka\OneDrive\Desktop\telegram\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\ref\Authorization.dll
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.exe
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.deps.json
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.runtimeconfig.json
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.runtimeconfig.dev.json
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.dll
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.pdb
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\CorporateClassifieds\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.csproj.AssemblyReference.cache
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.AssemblyInfoInputs.cache
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.AssemblyInfo.cs
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\scopedcss\bundle\Authorization.styles.css
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\Authorization.StaticWebAssets.Manifest.cache
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.RazorTargetAssemblyInfo.cache
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.csproj.CopyComplete
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.dll
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\refint\Authorization.dll
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.pdb
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.genruntimeconfig.cache
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\CorporateClassifieds\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\ref\Authorization.dll
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\FInalProjectTeam1\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\FInalProjectTeam1\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\FInalProjectTeam1\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.exe
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\FInalProjectTeam1\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.deps.json
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\FInalProjectTeam1\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.runtimeconfig.json
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\FInalProjectTeam1\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.runtimeconfig.dev.json
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\FInalProjectTeam1\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.dll
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\FInalProjectTeam1\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.pdb
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\FInalProjectTeam1\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\FInalProjectTeam1\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\FInalProjectTeam1\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\FInalProjectTeam1\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\FInalProjectTeam1\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\FInalProjectTeam1\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\FInalProjectTeam1\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\FInalProjectTeam1\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\FInalProjectTeam1\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\FInalProjectTeam1\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\FInalProjectTeam1\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\FInalProjectTeam1\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.csproj.AssemblyReference.cache
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\FInalProjectTeam1\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\FInalProjectTeam1\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.AssemblyInfoInputs.cache
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\FInalProjectTeam1\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.AssemblyInfo.cs
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\FInalProjectTeam1\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\FInalProjectTeam1\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\FInalProjectTeam1\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\FInalProjectTeam1\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\scopedcss\bundle\Authorization.styles.css
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\FInalProjectTeam1\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\Authorization.StaticWebAssets.Manifest.cache
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\FInalProjectTeam1\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.RazorTargetAssemblyInfo.cache
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\FInalProjectTeam1\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.csproj.CopyComplete
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\FInalProjectTeam1\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.dll
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\FInalProjectTeam1\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\refint\Authorization.dll
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\FInalProjectTeam1\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.pdb
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\FInalProjectTeam1\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.genruntimeconfig.cache
+C:\Users\dokka\OneDrive\Desktop\FINAL PROJECT\FInalProjectTeam1\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\ref\Authorization.dll
+C:\Users\dokka\Desktop\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\dokka\Desktop\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\dokka\Desktop\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.exe
+C:\Users\dokka\Desktop\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.deps.json
+C:\Users\dokka\Desktop\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.runtimeconfig.json
+C:\Users\dokka\Desktop\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.runtimeconfig.dev.json
+C:\Users\dokka\Desktop\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.dll
+C:\Users\dokka\Desktop\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.pdb
+C:\Users\dokka\Desktop\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\dokka\Desktop\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dokka\Desktop\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dokka\Desktop\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dokka\Desktop\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dokka\Desktop\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dokka\Desktop\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\dokka\Desktop\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dokka\Desktop\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dokka\Desktop\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dokka\Desktop\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dokka\Desktop\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.csproj.AssemblyReference.cache
+C:\Users\dokka\Desktop\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dokka\Desktop\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.AssemblyInfoInputs.cache
+C:\Users\dokka\Desktop\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.AssemblyInfo.cs
+C:\Users\dokka\Desktop\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\dokka\Desktop\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dokka\Desktop\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dokka\Desktop\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\scopedcss\bundle\Authorization.styles.css
+C:\Users\dokka\Desktop\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\Authorization.StaticWebAssets.Manifest.cache
+C:\Users\dokka\Desktop\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.RazorTargetAssemblyInfo.cache
+C:\Users\dokka\Desktop\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.csproj.CopyComplete
+C:\Users\dokka\Desktop\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.dll
+C:\Users\dokka\Desktop\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\refint\Authorization.dll
+C:\Users\dokka\Desktop\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.pdb
+C:\Users\dokka\Desktop\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.genruntimeconfig.cache
+C:\Users\dokka\Desktop\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\ref\Authorization.dll
+C:\Users\dokka\Desktop\PROJECTS\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\dokka\Desktop\PROJECTS\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\dokka\Desktop\PROJECTS\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.exe
+C:\Users\dokka\Desktop\PROJECTS\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.deps.json
+C:\Users\dokka\Desktop\PROJECTS\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.runtimeconfig.json
+C:\Users\dokka\Desktop\PROJECTS\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.runtimeconfig.dev.json
+C:\Users\dokka\Desktop\PROJECTS\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.dll
+C:\Users\dokka\Desktop\PROJECTS\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.pdb
+C:\Users\dokka\Desktop\PROJECTS\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\dokka\Desktop\PROJECTS\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dokka\Desktop\PROJECTS\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dokka\Desktop\PROJECTS\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dokka\Desktop\PROJECTS\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dokka\Desktop\PROJECTS\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dokka\Desktop\PROJECTS\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\dokka\Desktop\PROJECTS\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dokka\Desktop\PROJECTS\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dokka\Desktop\PROJECTS\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dokka\Desktop\PROJECTS\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dokka\Desktop\PROJECTS\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.csproj.AssemblyReference.cache
+C:\Users\dokka\Desktop\PROJECTS\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dokka\Desktop\PROJECTS\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.AssemblyInfoInputs.cache
+C:\Users\dokka\Desktop\PROJECTS\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.AssemblyInfo.cs
+C:\Users\dokka\Desktop\PROJECTS\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\dokka\Desktop\PROJECTS\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dokka\Desktop\PROJECTS\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dokka\Desktop\PROJECTS\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\scopedcss\bundle\Authorization.styles.css
+C:\Users\dokka\Desktop\PROJECTS\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\Authorization.StaticWebAssets.Manifest.cache
+C:\Users\dokka\Desktop\PROJECTS\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.RazorTargetAssemblyInfo.cache
+C:\Users\dokka\Desktop\PROJECTS\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.csproj.CopyComplete
+C:\Users\dokka\Desktop\PROJECTS\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.dll
+C:\Users\dokka\Desktop\PROJECTS\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\refint\Authorization.dll
+C:\Users\dokka\Desktop\PROJECTS\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.pdb
+C:\Users\dokka\Desktop\PROJECTS\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.genruntimeconfig.cache
+C:\Users\dokka\Desktop\PROJECTS\FINAL PROJECT\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\ref\Authorization.dll
+C:\Users\2145580\Documents\WebServices\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\2145580\Documents\WebServices\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\2145580\Documents\WebServices\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.exe
+C:\Users\2145580\Documents\WebServices\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.deps.json
+C:\Users\2145580\Documents\WebServices\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.runtimeconfig.json
+C:\Users\2145580\Documents\WebServices\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.runtimeconfig.dev.json
+C:\Users\2145580\Documents\WebServices\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.dll
+C:\Users\2145580\Documents\WebServices\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\ref\Authorization.dll
+C:\Users\2145580\Documents\WebServices\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Authorization.pdb
+C:\Users\2145580\Documents\WebServices\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\2145580\Documents\WebServices\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2145580\Documents\WebServices\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\2145580\Documents\WebServices\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2145580\Documents\WebServices\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2145580\Documents\WebServices\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2145580\Documents\WebServices\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\2145580\Documents\WebServices\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2145580\Documents\WebServices\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2145580\Documents\WebServices\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2145580\Documents\WebServices\WebServices\Authorization\AuthorizationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2145580\Documents\WebServices\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.csproj.AssemblyReference.cache
+C:\Users\2145580\Documents\WebServices\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2145580\Documents\WebServices\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.AssemblyInfoInputs.cache
+C:\Users\2145580\Documents\WebServices\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.AssemblyInfo.cs
+C:\Users\2145580\Documents\WebServices\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\2145580\Documents\WebServices\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2145580\Documents\WebServices\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2145580\Documents\WebServices\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\Authorization.StaticWebAssets.Manifest.cache
+C:\Users\2145580\Documents\WebServices\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\Authorization.StaticWebAssets.xml
+C:\Users\2145580\Documents\WebServices\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\scopedcss\bundle\Authorization.styles.css
+C:\Users\2145580\Documents\WebServices\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.RazorTargetAssemblyInfo.cache
+C:\Users\2145580\Documents\WebServices\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.csproj.CopyComplete
+C:\Users\2145580\Documents\WebServices\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.dll
+C:\Users\2145580\Documents\WebServices\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\ref\Authorization.dll
+C:\Users\2145580\Documents\WebServices\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.pdb
+C:\Users\2145580\Documents\WebServices\WebServices\Authorization\AuthorizationMicroservice\obj\Debug\net5.0\Authorization.genruntimeconfig.cache

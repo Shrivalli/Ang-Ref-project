@@ -1,0 +1,69 @@
+<div class="container">
+    <div class="alert alert-danger" *ngIf="pageError!=''">{{pageError}}</div>
+    <div class="offer-details-content">
+        <h1>Offer details</h1>
+        <br>
+        <form [formGroup]="offerForm" (ngSubmit)="onSubmit()">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Properties</th>
+                        <th>Value</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Id</td>
+                        <td>{{offer.offerId}}</td>
+                    </tr>
+                    <tr>
+                        <td>Details</td>
+                        <td>
+                            <input type="textbox" formControlName="details"   [(ngModel)]="offer.details" class="form-control">
+                            <!-- error checking for description-->
+                            <div *ngIf="details?.invalid && (details?.dirty || details?.touched)" class="alert alert-danger">
+                                <div *ngIf="details?.errors?.required">
+                                    details are required.
+                                </div>
+                                <div *ngIf="details?.errors?.minlength">
+                                    Details must be at least 10 characters long.
+                                </div>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Category</td>
+                        <td>
+                            <select class="form-control" formControlName="category" [(ngModel)]="offer.category">
+                                <option>Electronics</option>
+                                <option>Plants</option>
+				                <option>Furniture</option>
+				                <option>Accessories</option>
+                                <option>Pets</option>
+                                <option>Books</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Posted on</td>
+                        <td>{{offer.openedDate}}</td>
+                    </tr>
+                    <tr>
+                        <td>Engaged on</td>
+                        <td>{{offer.engagedDate}}</td>
+                    </tr>
+                    <tr>
+                        <td>Status</td>
+                        <td>{{offer.status}}</td>
+                    </tr>
+                    <tr>
+                        <td>Likes</td>
+                        <td>{{offer.likes}}</td>
+                    </tr>
+                </tbody>
+            </table>
+            <button class="btn btn-success" [disabled]="!offerForm.valid || !offerForm.touched || !offerForm.dirty"> Submit</button> &nbsp; &nbsp;
+            <a class="btn btn-dark" routerLink="/main">Go back</a>
+        </form>
+    </div>
+</div>

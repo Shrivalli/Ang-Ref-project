@@ -1,0 +1,18 @@
+.navbar-nav {
+    margin-right: 50px;
+}
+
+.navbar-nav>li {
+    margin-right: 30px;
+}
+
+ nav {
+   background-color: #0047AB !important;    
+  /* background-image: url("src\asset\image2.jfif ") !important; 
+  background-repeat: no-repeat; */
+}  
+
+a.nav-link {
+    opacity: 1 !important;
+    color: white !important;
+}

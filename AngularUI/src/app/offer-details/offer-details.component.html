@@ -1,0 +1,57 @@
+<div class="container">
+    <div class="alert alert-danger" *ngIf="pageError!=''">{{pageError}}</div>
+    <div class="offer-details-content">
+        <h1>Offer details</h1>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Properties</th>
+                    <th>Value</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>OfferId</td>
+                    <td>{{offer.offerId}}</td>
+                </tr>
+                <tr>
+                    <td>EmployeeId</td>
+                    <td>{{offer.employeeId}}</td>
+                </tr>
+                <tr>
+                    <td>Status</td>
+                    <td>{{offer.status}}</td>
+                </tr>
+                <tr>
+                    <td>Likes</td>
+                    <td>{{offer.likes}}</td>
+                </tr>
+                <tr>
+                    <td>Category</td>
+                    <td>{{offer.category}}</td>
+                </tr>
+                <tr>
+                    <td>Details</td>
+                    <td>{{offer.details}}</td>
+                </tr>
+                <tr>
+                    <td>OpenedDate</td>
+                    <td>{{offer.openedDate | date:'longDate'}}</td>
+                </tr>
+                <tr>
+                    <td>EngagedDate</td>
+                    <td>{{offer.engagedDate | date:'longDate'}}</td>
+                </tr>
+                <tr>
+                    <td>ClosedDate</td>
+                    <td>{{offer.closedDate | date:'longDate'}}</td>
+                </tr>
+            </tbody>
+        </table>
+        <span>Liked the post?</span> &nbsp;&nbsp;
+        <span class="material-icons" [ngStyle]="{'color':isLiked?'red':'rgb(71, 69, 69)'}" (click)="likedIt()">favorite</span>
+        <button *ngIf="isLiked" (click)="submitLike()" class="btn btn-primary">Submit</button>
+        <br><br>
+        <a class="btn btn-dark" routerLink="/main">Go back</a> &nbsp;&nbsp;
+    </div>
+</div>
